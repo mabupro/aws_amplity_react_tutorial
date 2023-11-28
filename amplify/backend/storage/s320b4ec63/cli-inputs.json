@@ -1,0 +1,14 @@
+{
+  "resourceName": "s320b4ec63",
+  "policyUUID": "20b4ec63",
+  "bucketName": "awsamplityreacttutorcbc4be0c86f940a399657da984c",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

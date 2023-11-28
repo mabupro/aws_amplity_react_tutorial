@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "awsamplityreacttutor",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-11-28T05:23:20.525Z"
+}
